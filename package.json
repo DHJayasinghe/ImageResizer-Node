@@ -1,0 +1,25 @@
+{
+  "name": "imageresizer-node",
+  "version": "1.0.0",
+  "description": "Image Resizer",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "ImageResizer_Node"
+  },
+  "keywords": [
+    "image",
+    "resizer",
+    "node.js"
+  ],
+  "author": "Dhanuka Jayasinghe",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1",
+    "multer": "^1.4.2",
+    "sharp": "^0.28.3"
+  }
+}
